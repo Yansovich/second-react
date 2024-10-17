@@ -28,7 +28,7 @@
     transform: scale(0.9);
     color: rgb(69, 169, 202);
 }
-
+/* 
 .btn_m {
     padding: 12px 16px;
 }
@@ -43,4 +43,21 @@
 
 .temp {
     background-color: lightseagreen;
+} */
+
+
+.btn-add {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 50px;
+    background-color: rgb(143, 78, 203);
+    border: 1px solid rgb(143, 78, 203);
+    border-radius: 5px;
+    margin-top: auto;
+    margin-bottom: auto;
+    color: antiquewhite;
+    cursor: pointer;
+    font-size: 20px;
 }
